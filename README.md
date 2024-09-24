@@ -27,9 +27,7 @@ Welcome to the **Todo App with API**! This project is a simple yet powerful todo
 - **Animations**: The use of `CSSTransition` and `TransitionGroup` from `react-transition-group` ensures that adding or removing todos is accompanied by smooth and visually appealing animations.
 - **Use of React Hooks**: Hooks like `useEffect` manage side effects, such as fetching todos from the API on component mount. `useCallback` is used to memoize functions and prevent unnecessary re-renders.
 
-## 🧪 Test-Driven Features
-
-The app is thoroughly tested to ensure robust functionality, covering the following aspects:
+## 🧪Features
 
 ### 📋 Page with No Todos
 - Sends a request to fetch todos.
